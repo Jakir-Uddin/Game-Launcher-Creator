@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJrTBrmg46omXHFStG5PM0hW0VQpN8VJf5bG9b+Sj1N3rxQk6Eap2W/NtveGn4ddpXd+blsqDGjrJjpinaxDdA==",
+  "success": true,
+  "projectFilePath": "D:\\Family Documents\\Jakir\\uni 3rd year\\Final Year Project\\Game-Launcher-Creator\\Game Launcher Creator\\Game Launcher Creator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\control.draggable\\1.0.5049.269\\control.draggable.1.0.5049.269.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Control.Draggable 1.0.5049.269' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Control.Draggable",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
