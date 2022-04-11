@@ -19,3 +19,24 @@ D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Project Application\Ga
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Project Application\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form3.resources
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Project Application\Game Launcher Creator\bin\Debug\net6.0-windows\Control.Draggable.dll
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Project Application\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.csproj.CopyComplete
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Game Launcher Creator.exe
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Game Launcher Creator.deps.json
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Game Launcher Creator.runtimeconfig.json
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Game Launcher Creator.dll
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Game Launcher Creator.pdb
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\bin\Debug\net6.0-windows\Control.Draggable.dll
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.csproj.AssemblyReference.cache
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form1.resources
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form2.resources
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form3.resources
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.csproj.GenerateResource.cache
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.AssemblyInfoInputs.cache
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.AssemblyInfo.cs
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.csproj.CoreCompileInputs.cache
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.csproj.CopyComplete
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.dll
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\refint\Game Launcher Creator.dll
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.pdb
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.genruntimeconfig.cache
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\ref\Game Launcher Creator.dll

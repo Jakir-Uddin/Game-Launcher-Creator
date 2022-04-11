@@ -34,5 +34,11 @@ namespace Game_Launcher_Creator
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ofd.ShowDialog();
+            Form1.f1.b1.Image = Image.FromFile(ofd.FileName);
+        }
     }
 }
