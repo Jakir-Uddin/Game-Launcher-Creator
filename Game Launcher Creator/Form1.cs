@@ -96,20 +96,16 @@ namespace Game_Launcher_Creator
             using (DownloadManager = new WebClient())
             {
                 Uri VersionLink = new Uri("https://dl.dropbox.com/s/sqh72wguyq2la7w/Version.txt?dl=1");
-                //Uri newsLink = new Uri("https://dl.dropbox.com/s/y2mwznidhu6ehme/News.txt?dl=1");
 
                 try
                 {
                     DownloadManager.DownloadFile(VersionLink, @"C:\Evolve\Version.txt");
-                    //DownloadManager.DownloadFile(newsLink, @"C:\Evolve\News.txt");
                 }
                 catch (Exception Error)
                 {
                     MessageBox.Show(Error.Message);
                 }
             }
-            //news = File.ReadAllText(@"C:\Evolve\News.txt");
-            //label4.Text = news;
             Version = File.ReadAllText(@"C:\Evolve\Version.txt");
             try
             {
@@ -321,10 +317,6 @@ namespace Game_Launcher_Creator
                         MessageBox.Show("There is an update downlaoding");
                         DownloadGame();
                     }
-                    //else
-                    //{
-                    //Process.Start(@"C:\Evolve\Evolve\Evolve.exe");
-                    //}
                 }
                 else
                 {
