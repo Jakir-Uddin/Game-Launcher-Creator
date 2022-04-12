@@ -14,6 +14,7 @@ namespace Game_Launcher_Creator
     {
         public static Form2 f2;
         public OpenFileDialog ofd = new OpenFileDialog();
+        public OpenFileDialog pic1 = new OpenFileDialog();
         public Form2()
         {
             InitializeComponent();
@@ -37,8 +38,8 @@ namespace Game_Launcher_Creator
 
         private void button2_Click(object sender, EventArgs e)
         {
-            ofd.ShowDialog();
-            Form1.f1.b1.Image = Image.FromFile(ofd.FileName);
+            pic1.ShowDialog();
+            Form1.f1.b1.Image = Image.FromFile(pic1.FileName);
         }
     }
 }

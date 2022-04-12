@@ -1,6 +1,6 @@
 ﻿namespace Game_Launcher_Creator
 {
-    partial class Form3
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -28,37 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(785, 468);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 34);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Build";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(282, 97);
+            this.textBox1.Location = new System.Drawing.Point(181, 159);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(384, 31);
-            this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "File name";
+            this.textBox1.Size = new System.Drawing.Size(422, 31);
+            this.textBox1.TabIndex = 0;
+            this.textBox1.Text = "Enter web link";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // Form3
+            // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(937, 544);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button1);
-            this.Name = "Form3";
-            this.Text = "Publish";
+            this.Name = "Form5";
+            this.Text = "Download";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -66,7 +55,6 @@
 
         #endregion
 
-        private Button button1;
         private TextBox textBox1;
     }
 }

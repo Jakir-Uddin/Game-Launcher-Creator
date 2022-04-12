@@ -34,5 +34,413 @@ namespace Game_Launcher_Creator.Properties {
                 this["CurrentVersion"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool PlayButtonVisable {
+            get {
+                return ((bool)(this["PlayButtonVisable"]));
+            }
+            set {
+                this["PlayButtonVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PlayButtonName {
+            get {
+                return ((string)(this["PlayButtonName"]));
+            }
+            set {
+                this["PlayButtonName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PlayButtonFile {
+            get {
+                return ((string)(this["PlayButtonFile"]));
+            }
+            set {
+                this["PlayButtonFile"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PlayButtonImage {
+            get {
+                return ((string)(this["PlayButtonImage"]));
+            }
+            set {
+                this["PlayButtonImage"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PlayButtonLocationX {
+            get {
+                return ((string)(this["PlayButtonLocationX"]));
+            }
+            set {
+                this["PlayButtonLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PlayButtonLocationY {
+            get {
+                return ((string)(this["PlayButtonLocationY"]));
+            }
+            set {
+                this["PlayButtonLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string BackgroundPicture {
+            get {
+                return ((string)(this["BackgroundPicture"]));
+            }
+            set {
+                this["BackgroundPicture"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool BackgroundPictureVisable {
+            get {
+                return ((bool)(this["BackgroundPictureVisable"]));
+            }
+            set {
+                this["BackgroundPictureVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool UninstallVisable {
+            get {
+                return ((bool)(this["UninstallVisable"]));
+            }
+            set {
+                this["UninstallVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string UninstallLocationX {
+            get {
+                return ((string)(this["UninstallLocationX"]));
+            }
+            set {
+                this["UninstallLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string UninstallLocationY {
+            get {
+                return ((string)(this["UninstallLocationY"]));
+            }
+            set {
+                this["UninstallLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string UninstallFolder {
+            get {
+                return ((string)(this["UninstallFolder"]));
+            }
+            set {
+                this["UninstallFolder"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool NewsVisable {
+            get {
+                return ((bool)(this["NewsVisable"]));
+            }
+            set {
+                this["NewsVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string NewsLocationX {
+            get {
+                return ((string)(this["NewsLocationX"]));
+            }
+            set {
+                this["NewsLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string NewsLocationY {
+            get {
+                return ((string)(this["NewsLocationY"]));
+            }
+            set {
+                this["NewsLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string NewsName {
+            get {
+                return ((string)(this["NewsName"]));
+            }
+            set {
+                this["NewsName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string NewsLink {
+            get {
+                return ((string)(this["NewsLink"]));
+            }
+            set {
+                this["NewsLink"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool OpenFileVisable {
+            get {
+                return ((bool)(this["OpenFileVisable"]));
+            }
+            set {
+                this["OpenFileVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string OpenFileLocationX {
+            get {
+                return ((string)(this["OpenFileLocationX"]));
+            }
+            set {
+                this["OpenFileLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string OpenFileLocationY {
+            get {
+                return ((string)(this["OpenFileLocationY"]));
+            }
+            set {
+                this["OpenFileLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string OpenFileFolder {
+            get {
+                return ((string)(this["OpenFileFolder"]));
+            }
+            set {
+                this["OpenFileFolder"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Label2Visable {
+            get {
+                return ((bool)(this["Label2Visable"]));
+            }
+            set {
+                this["Label2Visable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Label2LocationX {
+            get {
+                return ((string)(this["Label2LocationX"]));
+            }
+            set {
+                this["Label2LocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Label2LocationY {
+            get {
+                return ((string)(this["Label2LocationY"]));
+            }
+            set {
+                this["Label2LocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool Label5Visable {
+            get {
+                return ((bool)(this["Label5Visable"]));
+            }
+            set {
+                this["Label5Visable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Label5LocationX {
+            get {
+                return ((string)(this["Label5LocationX"]));
+            }
+            set {
+                this["Label5LocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Label5LocationY {
+            get {
+                return ((string)(this["Label5LocationY"]));
+            }
+            set {
+                this["Label5LocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool ProgressbarVisable {
+            get {
+                return ((bool)(this["ProgressbarVisable"]));
+            }
+            set {
+                this["ProgressbarVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string ProgressbarLocationX {
+            get {
+                return ((string)(this["ProgressbarLocationX"]));
+            }
+            set {
+                this["ProgressbarLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string ProgressbarLocationY {
+            get {
+                return ((string)(this["ProgressbarLocationY"]));
+            }
+            set {
+                this["ProgressbarLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool DownloadVisable {
+            get {
+                return ((bool)(this["DownloadVisable"]));
+            }
+            set {
+                this["DownloadVisable"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string DownloadLocationX {
+            get {
+                return ((string)(this["DownloadLocationX"]));
+            }
+            set {
+                this["DownloadLocationX"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string DownloadLocationY {
+            get {
+                return ((string)(this["DownloadLocationY"]));
+            }
+            set {
+                this["DownloadLocationY"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string DownloadLink {
+            get {
+                return ((string)(this["DownloadLink"]));
+            }
+            set {
+                this["DownloadLink"] = value;
+            }
+        }
     }
 }

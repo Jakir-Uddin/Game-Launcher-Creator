@@ -40,3 +40,5 @@ D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.pdb
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game Launcher Creator.genruntimeconfig.cache
 D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\ref\Game Launcher Creator.dll
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form4.resources
+D:\Family Documents\Jakir\uni 3rd year\Final Year Project\Game-Launcher-Creator\Game Launcher Creator\obj\Debug\net6.0-windows\Game_Launcher_Creator.Form5.resources

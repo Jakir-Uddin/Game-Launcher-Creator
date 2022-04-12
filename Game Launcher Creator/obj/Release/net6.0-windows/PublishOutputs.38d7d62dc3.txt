@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\New folder\Game Launcher Creator.exe
+C:\Users\Admin\Desktop\New folder\Game Launcher Creator.dll
+C:\Users\Admin\Desktop\New folder\Game Launcher Creator.deps.json
+C:\Users\Admin\Desktop\New folder\Game Launcher Creator.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\Game Launcher Creator.pdb
+C:\Users\Admin\Desktop\New folder\Control.Draggable.dll
